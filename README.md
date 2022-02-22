@@ -1,2 +1,2 @@
 # Tarea-5
-Ejercicios del 1 al 25
+Ejercicios del 1 al 21
